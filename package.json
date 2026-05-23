@@ -1,5 +1,5 @@
 {
-  "name": "tandem-js",
+  "name": "@n3ko64lolxdchat/tandem",
   "version": "0.1.1",
   "description": "A minimal node.js high-speed framework made for website backend development.",
   "main": "index.js",
@@ -21,6 +21,6 @@
     "node": ">=18"
   },
   "dependencies": {
-    "tandem-js": "^0.0.1"
+    "@n3ko64lolxdchat/tandem": "^0.0.1"
   }
 }
