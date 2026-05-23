@@ -1,4 +1,4 @@
-# ⚡ Tandem
+# Tandem
 
 A minimal, high-speed Node.js backend framework built for simplicity and performance.
 
@@ -16,7 +16,7 @@ Tandem is a lightweight backend framework for Node.js focused on:
 ## Installation
 
 ```bash
-npm install tandem
+npm install @n3ko64lolxdchat/tandem
 ```
 
 ---
@@ -24,13 +24,13 @@ npm install tandem
 ## Quickstart
 
 ```js
-const { App, Router } = require("tandem");
+const { App, Router } = require("npm install @n3ko64lolxdchat/tandem");
 
 const app = new App();
 const router = new Router();
 
 router.get("/", (ctx) => {
-  ctx.send("Hello from Tandem ⚡");
+  ctx.send("Hello from Tandem");
 });
 
 app.useRouter(router);
