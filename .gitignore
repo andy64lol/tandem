@@ -7,3 +7,4 @@ tests
 .npmignore
 test/
 packages-lock.json
+reset-local.sh
