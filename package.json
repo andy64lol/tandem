@@ -1,0 +1,26 @@
+{
+  "name": "tandem-js",
+  "version": "0.0.1",
+  "description": "A minimal node.js high-speed framework made for website backend development.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "framework",
+    "backend",
+    "http",
+    "tandem",
+    "fast",
+    "node"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "tandem-js": "^0.0.1"
+  }
+}

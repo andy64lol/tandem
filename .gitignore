@@ -1,0 +1,9 @@
+node_modules
+tests
+*.log
+*.tgz
+.tar.gz
+.zip
+.npmignore
+test/
+packages-lock.json
